@@ -1,0 +1,5 @@
+pyobjc
+pyautogui
+keyboard
+pynput
+pillow
